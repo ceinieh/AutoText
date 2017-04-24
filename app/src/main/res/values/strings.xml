@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">POC Dynamic Text</string>
+    <string name="hint">HINT</string>
+    <string name="selected_desc">Selected icon</string>
+</resources>
